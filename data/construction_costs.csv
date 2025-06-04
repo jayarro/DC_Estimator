@@ -1,0 +1,6 @@
+component,tierIII,tierIV
+building_construction,1.5,1.8
+environmental_systems,2,2.5
+electrical_systems,2,2.5
+backup_systems,1,1.8
+server_hardware,7,8.5

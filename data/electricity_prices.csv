@@ -1,0 +1,34 @@
+year,datacenter_size,rate_cents_kwh,rate_dollars_MW,source
+2015,100MW,5.18,51.8,Xcel: Fuel cost drop
+2015,20MW,7.01,70.14,Xcel: Fuel cost drop
+2015,5MW,9.96,99.62,Xcel: Fuel cost drop
+2016,100MW,5.28,52.84,Xcel: Renewables push
+2016,20MW,7.15,71.54,Xcel: Renewables push
+2016,5MW,10.16,101.62,Xcel: Renewables push
+2017,100MW,5.42,54.16,Xcel: EDR introduced
+2017,20MW,7.33,73.33,Xcel: EDR introduced
+2017,5MW,10.42,104.16,Xcel: EDR introduced
+2018,100MW,5.58,55.79,Xcel: Regular escalation
+2018,20MW,7.55,75.53,Xcel: Regular escalation
+2018,5MW,10.73,107.28,Xcel: Regular escalation
+2019,100MW,5.72,57.18,Xcel: COVID impact
+2019,20MW,7.74,77.41,Xcel: COVID impact
+2019,5MW,11.0,109.96,Xcel: COVID impact
+2020,100MW,5.8,58.04,Xcel: Infrastructure boost
+2020,20MW,7.86,78.58,Xcel: Infrastructure boost
+2020,5MW,11.16,111.61,Xcel: Infrastructure boost
+2021,100MW,5.92,59.2,Xcel: TOU rollout
+2021,20MW,8.01,80.15,Xcel: TOU rollout
+2021,5MW,11.38,113.85,Xcel: TOU rollout
+2022,100MW,6.1,60.98,Xcel: Standard adjustment
+2022,20MW,8.26,82.55,Xcel: Standard adjustment
+2022,5MW,11.73,117.26,Xcel: Standard adjustment
+2023,100MW,6.25,62.5,Xcel: 2024 rate hike
+2023,20MW,8.46,84.62,Xcel: 2024 rate hike
+2023,5MW,12.02,120.19,Xcel: 2024 rate hike
+2024,100MW,6.5,65.0,Xcel: No specific adjustment noted
+2024,20MW,8.8,88.0,Xcel: No specific adjustment noted
+2024,5MW,12.5,125.0,Xcel: No specific adjustment noted
+2025,100MW,6.5,65.0,Xcel: Current Year Rates
+2025,20MW,8.8,88.0,Xcel: Current Year Rates
+2025,5MW,12.5,125.0,Xcel: Current Year Rates
